@@ -1,0 +1,22 @@
+{
+  "name": "date-formatteramineachhoud",
+  "version": "1.0.0",
+  "description": "A package to format dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amineachh/Dateformattingpackage.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "amine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amineachh/Dateformattingpackage/issues"
+  },
+  "homepage": "https://github.com/Amineachh/Dateformattingpackage#readme"
+}
